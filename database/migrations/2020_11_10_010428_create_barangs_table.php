@@ -24,7 +24,7 @@ class CreateBarangsTable extends Migration
             $table->timestamps();
         });
     }
-
+ 
     /**
      * Reverse the migrations.
      *
